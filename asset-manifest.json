@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/andisiwe-calucatorjs/static/css/main.073c9b0a.css",
+    "main.js": "/andisiwe-calucatorjs/static/js/main.142aadf0.js",
+    "static/js/787.42289200.chunk.js": "/andisiwe-calucatorjs/static/js/787.42289200.chunk.js",
+    "static/media/logo.svg": "/andisiwe-calucatorjs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/andisiwe-calucatorjs/index.html",
+    "main.073c9b0a.css.map": "/andisiwe-calucatorjs/static/css/main.073c9b0a.css.map",
+    "main.142aadf0.js.map": "/andisiwe-calucatorjs/static/js/main.142aadf0.js.map",
+    "787.42289200.chunk.js.map": "/andisiwe-calucatorjs/static/js/787.42289200.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.142aadf0.js"
+  ]
+}
